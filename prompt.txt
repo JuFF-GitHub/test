@@ -1,1 +1,1 @@
-GiBBERISh-server:~/gibberish$
+GiBBERISh-server:~$
